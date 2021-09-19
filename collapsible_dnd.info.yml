@@ -1,0 +1,5 @@
+name: Collapsible Drag 'n Drop.
+description: Make Drag 'n Drop collapsible.
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9
